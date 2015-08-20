@@ -1,0 +1,9 @@
+- Polymorphism = allows actions to act different based on the object being performed on. 
+
+
+- If you create small classes in a file, it is better, especially if you don't plan on using those classes again. 
+
+
+
+- If you inherit from another class and you override a method from that class, that is what polymorphism is. It gives unique functionality for the class that has inherited from a base class.
+
